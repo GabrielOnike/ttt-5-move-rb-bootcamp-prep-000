@@ -15,5 +15,5 @@ end
 
 char = "X"
 def move(board,input_to_index,char)
-  
+
 end
