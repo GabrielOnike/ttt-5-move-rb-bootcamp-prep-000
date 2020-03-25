@@ -10,7 +10,7 @@ end
 
 def input_to_index(user_input)
   puts converted_input = "#{user_input}".to_i
-  puts converted_input - 1
+   converted_input - 1
 end
 
 def move(board, input_to_index,char="X")
